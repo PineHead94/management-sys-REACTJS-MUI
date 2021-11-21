@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: rgb(243, 249, 253);
+  position: relative;
+}
+
+.admin-table{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.admin-table th{
+  width: 100px;
+  padding: 5px;
+}
+
+.admin-table td{
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+}
+
+.patient-table{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.patient-table th{
+  width: 100px;
+  padding: 5px;
+
+}
+
+.patient-table td{
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+}
