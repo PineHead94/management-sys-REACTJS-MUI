@@ -1,6 +1,6 @@
-Password is 'test123' for every login 
-Udhav1 is admin
-Udhav2 is doctor
+Password is 'test123' for every login,
+Udhav1 is admin,
+Udhav2 is doctor,
 Udhav3 is staff
 
 
